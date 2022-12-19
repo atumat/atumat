@@ -7,5 +7,5 @@ As part of my university coursework & projects, I have also worked in C++, Pytho
 I was ranked 791 worldwide in the International Informatics Olympiad in 2010. 
 I am eager to apply my problem solving skills and strong CS fundamentals while working on challenging
 & impactful projects. 
-Reach ot to me at atumat@gmail.com
+Reach out to me at atumat@gmail.com
 
