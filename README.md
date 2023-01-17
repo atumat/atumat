@@ -4,7 +4,7 @@ my university curriculum, I often find myself thinking & learning about algorith
 time & space complexity. My interest also lies in Web development.
 
 
-As part of my university coursework & projects, I have also worked in C++, Python, HTML, CSS and SQL. While in school,
+As part of my university coursework & projects, I have also worked in C++,C,HTML, CSS and SQL. While in school,
 I was ranked 791 worldwide in the International Informatics Olympiad in 2010. 
 I am eager to apply my problem solving skills and strong CS fundamentals while working on challenging
 & impactful projects. 
