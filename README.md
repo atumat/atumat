@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Aarti Mattoo-blue">
+<img src="https://img.shields.io/badge/Aarti Mattoo-pink">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
 
