@@ -1,6 +1,9 @@
-<img src="https://img.shields.io/badge/-Aarti Mattoo-blue">
-<img src="https://img.shields.io/badge/Java-orange">
-<img src="https://img.shields.io/badge/Welcome-brightgreen">
+<p align="center">
+<img src="https://img.shields.io/badge/Aarti Mattoo-blue">
+<img src="https://badges.frapsoft.com/os/v1/Open-Source.svg?v=103">
+<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
+
+</p>
 
 
 I am a sophomore at Amity University pursuing Bachelor of Technology in Computer Science & Engineering. 
