@@ -10,6 +10,7 @@ I love to dive deep into designing data structures and implement them in Java. B
 my university curriculum, I often find myself thinking & learning about algorithms, and analysing them using 
 time & space complexity. My interest also lies in Web development.
 
+![image](https://user-images.githubusercontent.com/116307514/218180690-6775b1b9-cdd3-4a47-9f81-177943d1dd74.png)
 
 As part of my university coursework & projects, I have also worked in C++,C,HTML, CSS and SQL. While in school,
 I was ranked 791 worldwide in the International Informatics Olympiad in 2010. 
