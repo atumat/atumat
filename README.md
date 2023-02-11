@@ -22,6 +22,6 @@ Reach out to me at atumat@gmail.com
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
