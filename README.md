@@ -18,9 +18,11 @@ I am eager to apply my problem solving skills and strong CS fundamentals while w
 & impactful projects. 
 Reach out to me at atumat@gmail.com <br>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://user-images.githubusercontent.com/116307514/218255665-5de596ad-f055-473b-ab1c-b77d39127252.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
+
 
 
