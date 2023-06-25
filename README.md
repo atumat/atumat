@@ -23,5 +23,3 @@ Reach out to me at atumat@gmail.com <br>
 <p align="center"> 
   
 
-<a href=#><img src="contributions.svg"></a>
-
