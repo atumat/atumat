@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
@@ -23,5 +25,8 @@ Reach out to me at atumat@gmail.com <br>
 | <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atumat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aarti's github stats" /></a> | <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atumat&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<a href="https://github.com/atumat/github-readme-streak-stats" >
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
   
 
