@@ -26,7 +26,7 @@ Reach out to me at atumat@gmail.com <br>
 | ------------- | ------------- |
 
 <a href="https://github.com/atumat/github-readme-streak-stats" >
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+
     </a>
   
 
