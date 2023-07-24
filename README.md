@@ -4,8 +4,6 @@
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
 </p>
-
-
  
  
 I am a pre-final year student at Amity University pursuing Bachelor of Technology in Computer Science & Engineering. 
