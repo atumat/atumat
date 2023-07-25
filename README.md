@@ -19,8 +19,7 @@ Reach out to me at atumat@gmail.com <br>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img   src="https://img.icons8.com/color/48/000000/css3.png"/>   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 <p align="center"> 
-
-| <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atumat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aarti's github stats" /></a> | <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atumat&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atumat&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
