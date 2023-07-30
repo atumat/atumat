@@ -19,7 +19,8 @@ Reach out to me at atumat@gmail.com <br>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img   src="https://img.icons8.com/color/48/000000/css3.png"/>   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 <p align="center"> 
- | <a href="https://github.com/atumat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atumat&layout=compact&theme=buefy&hide_border=true" /></a> |
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atumat" alt="atumat" /></a> </p>|
 
 
 
