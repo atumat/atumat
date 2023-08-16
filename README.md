@@ -1,8 +1,8 @@
-
+<p align="justify">
  
 I am a pre-final year student at Amity University pursuing Bachelor of Technology in Computer Science & Engineering. 
 I love to dive deep into designing data structures and implement them in Java. Besides my university curriculum, I often find myself thinking & learning about algorithms, and analysing them. I am a passionate frontend developer.
-
+</p>
 
 
 As part of my university coursework & projects, I have also worked in C++, C, HTML, CSS and SQL. 
