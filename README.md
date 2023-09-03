@@ -3,6 +3,7 @@
 I love to dive deep into designing data structures and implement them in Java. Besides my university curriculum, I often find myself thinking & learning about algorithms, and analysing them. I am a passionate frontend developer.
 </p>
 
+
 <p align="justify">
  As part of my university coursework & projects, I have also worked in C++, C, HTML, CSS and SQL. I am eager to apply my problem solving skills and strong CS fundamentals while working on challenging & impactful projects. 
 Reach out to me at atumat@gmail.com <br>
