@@ -1,5 +1,5 @@
 <p align="justify">  
-I am a senior undergrad majoring in Computer Science & Engineering at Amity. I love to dive deep into Data Structures and implement them using OOP principles in Java. Besides my university curriculum, I explore algorithms, and analyse their time & space complexity. As part of my university coursework & projects, I have worked in C++, Python and SQL. I love to develop web applications  in React.js, HTML5 & CSS3.    
+I am a senior undergrad majoring in Computer Science & Engineering at Amity. I love to dive deep into Data Structures and implement them using OOP principles in Java. Besides my university curriculum, I explore algorithms, and analyse their time & space complexity. As part of my university coursework & projects, I have worked in C++, Python and SQL. I love to develop web applications  in React.js,Node.js, HTML5 & CSS3.    
 
 
 </p>
