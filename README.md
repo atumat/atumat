@@ -4,7 +4,6 @@ I am a senior undergrad majoring in Computer Science & Engineering at Amity. I l
 
 </p>
 
-
 <p align="justify">
 
 I am eager to apply my problem-solving skills and strong CS fundamentals while working on challenging & impactful projects.  I am actively seeking full-time opportunities in Software Engineering & Development.
