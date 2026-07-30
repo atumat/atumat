@@ -2,7 +2,7 @@
 
 I graduated with a Bachelor’s degree in Computer Science and Engineering. I have a strong passion for Data Structures and enjoy implementing them in Java. I actively explore and analyze algorithms to deepen my understanding of core computer science concepts. Through projects, I have gained hands-on experience with Deep learning, NLP, C++, Python, and SQL. I also enjoy developing web applications using React.js. 
 
-</p>
+</p>   
 
 <p align="justify">
 
